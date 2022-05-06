@@ -12,6 +12,7 @@ Setup
 -----
 * Run `pip install -r requirements.txt` to install dependencies.
 * Run `python -m textblob.download_corpora` to download TextBlob corpora.
+* Run `python scripts/download_corpus.py` to download the omw-1.4 corpus.
 
 Usage
 -----
